@@ -1,8 +1,17 @@
 {
     "name": "NodeJsApplication",
     "version": "1.0.0",
-    "keywords": ["util", "functional", "server", "client", "browser"],
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
     "author": "raman",
     "contributors": [],
-    "dependencies": {}
+    "dependencies": {
+        "mysql2": "^3.4.0",
+        "sequelize": "^6.32.1"
+    }
 }
